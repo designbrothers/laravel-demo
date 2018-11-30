@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    LaravelDay 2018
                 </div>
 
                 <div class="links">
